@@ -1,0 +1,27 @@
+.input-field{
+    width: 20%;
+    padding: 12px 20px;
+    margin: 10px;
+    box-sizing: border-box;
+    border: 2px solid #b2e1ee;
+    border-radius: 4px;
+    margin-left: 11vw;
+    margin-top: 5vh;
+    display: inline-block;
+}
+
+.filter-btn{
+    background-color: #525e60;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 83vw;
+    margin-top: 5vh;
+    font-size: 16px;
+    cursor: pointer;
+    width: 122px;
+ 
+}
